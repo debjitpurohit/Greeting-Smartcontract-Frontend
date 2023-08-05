@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+.body{
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.connectButton {
+  color: #081fec;
+  font-weight: bold;
+  font-size: calc(10px + 2vmin);
+  cursor: pointer;
+  background-color: aliceblue;
+  padding: 6px;
+  border-radius: 20px;
+}
+.cnct{
+  color: #081fec;
+  font-weight: semi-bold;
+  font-size: 20px;
+}
+
+
